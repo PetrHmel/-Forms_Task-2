@@ -1,0 +1,29 @@
+.app {
+  background-color: #ff7f50;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 20px;
+  height: 200px;
+  width: 300px;
+  border: 1px solid #ff7f50;
+  border-radius: 5px;
+}
+
+input {
+  display: block;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
+input[type="email"] {
+  margin-top: 40px;
+}
+
+button {
+  margin-top: 15px;
+}
+
+.errorMessage {
+  color: red;
+  text-align: center;
+}
